@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.approck.paycam">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".modules.view.Confirmation"
+            android:theme="@style/AppThemeNoActionBar"
+            ></activity>
+        <activity
+            android:name=".modules.view.CategoryDaitails"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".modules.view.CategoryItemsView"
+            android:parentActivityName=".base.base_view">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:theme="@style/AppTheme"
+                android:value=".base.base_view" />
+        </activity>
+        <activity
+            android:name=".modules.view.Login"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity android:name=".base.base_view" />
+        <activity
+            android:name=".modules.Splash.Splash"
+            android:theme="@style/AppThemeNoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4a148c</color>
+    <color name="colorPrimaryDark">#12005e</color>
+    <color name="colorAccent">#7c43bd</color>
+    <color name="colorWgiht">#FDFCFD</color>
+    <color name="colorGray">#A5A2A5</color>
+    <color name="colorGrayDark">#464546</color>
+
+
+    <color name="colorPrimaryLight">#5C12B1</color>
+    <string-array name="colors">
+        <!--<item>#76448A</item>-->
+        <!--<item>#884EA0</item>-->
+        <!--<item>#9B59B6</item>-->
+        <!--<item>#AF7AC5</item>-->
+        <!--<item>#C39BD3</item>-->
+        <!--<item>#D7BDE2</item>-->
+        <!--<item>#EBDEF0</item>-->
+        <!--<item>#F5EEF8</item>-->
+
+        <!--<item>#909497 </item>-->
+        <!--<item>#A6ACAF</item>-->
+        <!--<item>#BDC3C7</item>-->
+        <!--<item>#CACFD2</item>-->
+        <!--<item>#D7DBDD</item>-->
+        <!--<item>#E5E7E9 </item>-->
+        <!--<item>#F2F3F4</item>-->
+        <!--<item>#F8F9F9</item>-->
+
+        <item>#F8F9F9</item>
+        <item>#F5EEF8</item>
+        <item>#EBDEF0</item>
+        <item>#E5E7E9 </item>
+        <item>#D7DBDD</item>
+        <item>#D7BDE2</item>
+        <item>#C39BD3</item>
+        <item>#CACFD2</item>
+
+        <!--<item>#F8F9F9</item>-->
+        <!--<item>#F5EEF8</item>-->
+        <!--<item>#E5E7E9 </item>-->
+        <!--<item>#EBDEF0</item>-->
+        <!--<item>#D7DBDD</item>-->
+        <!--<item>#D7BDE2</item>-->
+        <!--<item>#CACFD2</item>-->
+        <!--<item>#C39BD3</item>-->
+
+    </string-array>
+    <color name="color_n1">#0d47a1</color>
+    <color name="color_n2">#5383d6</color>
+    <color name="color_n3">#2979ff</color>
+    <color name="color_n4">#536dfe</color>
+    <color name="color_n5">#2196f3</color>
+    <color name="color_n6">#64b5f6</color>
+    <color name="color_n7">#80deea</color>
+    <color name="color_n8">#bbdefb</color>
+    <color name="blueShade">#0d47a1</color>
+    <color name="red_300">#E90909</color>
+
+</resources>
